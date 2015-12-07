@@ -1,0 +1,226 @@
+﻿body 
+{
+	background-color : Grey;
+}
+#wrapper
+{
+	width : inherit;
+	margin : 0 auto;
+}
+
+#banner
+{
+	height : 100vh;
+	background-image : url(brick.jpg);
+	-webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+	background-repeat : repeat-y;
+	background-position : center;
+		
+}
+
+
+#navigation
+{
+	height : inherit;
+	
+}
+
+#footer
+{
+	color : LightGoldenRodYellow;
+	clear : both;
+	width : auto;
+	height : 40px;
+	margin-top : auto;
+	text-align : center;
+	
+}
+.name
+{
+	position : fixed;
+	left : 0;
+	right: 0;
+	font-family : Vivaldi;
+	color : White;
+	font-size : 55px;
+	text-align : center;
+		
+}
+.nam
+{
+	font-family : Vivaldi;
+	color : White;
+	font-size : 55px;
+	text-align : center;
+		
+}
+#profile
+{
+	margin-left : 46%;
+	
+}
+.prof
+{
+	border : 3px solid #fff;
+
+	border-radius : 50%;
+	width: 102px;
+	
+}
+#spaceban
+{
+	height : 100px;
+}
+.soc
+{
+	list-style-type : none;
+}
+.title
+{
+	color : LightSteelBlue;
+	font-size : 45px;
+	font-family : Monotype Corsiva;
+	text-align : center;
+}
+.imgtit
+{
+	color : #6666FF;
+	text-align : center;
+	font-size : 30px;
+	font-family : Calibri;
+}
+.content
+{
+	display : block;
+	margin-left : 100px;
+	margin-right : 100px;
+	color : LightGrey;
+	font-family : Calibri;
+	text-align : justify;
+	font-size : 18px;
+	background-color : DarkGray;
+	
+}
+.style15
+{
+	color : LightGrey;
+	font-family : Calibri;
+	font-size : 18px;
+}
+.imgcon
+{
+	height : 200px;
+	width : 330px;
+	display : block;
+	margin-left : auto;
+	margin-right : auto;
+	border-radius : 10%;
+	border : 5px solid lightgray;
+}
+.spacecon
+{
+	height : 50px;
+}
+
+.aboutmetitle
+{
+	font-size : 25px;
+	font-family : Courier New;
+}
+#social
+{
+	width : inherit;
+}
+.roundel
+{
+	border-radius: 50%;
+}
+#edu
+{
+	background-image : url(bitsblur.jpg);
+	height : 350px;
+	background-size : 100%;
+	background-repeat : repeat-x;
+	background-attachment : fixed;
+}
+.titlestellar
+{
+	line-height : normal;
+	color : White;
+	text-align : center;
+	vertical-align : middle;
+	font-family : Arial Black;
+	font-size : 40px;
+}
+#MPP
+{
+	background-image : url(board.jpg);
+	height : 350px;
+	width : inherit;
+	background-size : 110%;
+	background-repeat : repeat-x;
+	background-attachment : fixed;
+}
+#education
+{
+	background-color : DarkGrey;
+}
+#achieve
+{
+	background-image : url(grad.jpg);
+	height : 350px;
+	width : inherit;
+	background-size : 150%;
+	background-repeat : repeat-x;
+	background-attachment : fixed;
+}
+.imgach1
+{
+	background-image : url(iken.jpg);
+	width : 50%;
+	background-size : 100%;
+	background-repeat : no-repeat;
+	background-position : center center;
+	
+}
+.imgach2
+{
+	background-image : url(cofas.jpg);
+	width : 50%;
+	background-size : 100%;
+	background-repeat : no-repeat;
+	background-position : center center;
+	
+}
+#menu
+{
+	padding : 25px 25px 25px 25px;
+}
+#menulist
+{
+	background-color : silver;
+	opacity : .5;
+	color : Black;
+	padding : 40px 40px 40px 40px;
+	list-style-type : none;
+	font-weight : 900;
+	font-family : Verdana;
+	z-index:999;
+}
+#menulist li
+{
+	padding : 20px 20px 20px 20px;
+	border-radius : 10%;
+}
+#menuicodiv
+{
+	padding : 10px 10px 10px 10px;
+	border-radius : 20%;
+	opacity : 0.5;
+	width : 40px;
+	border : 3px solid transparent;
+	background-color : LightGray;
+}
